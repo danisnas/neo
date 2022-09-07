@@ -37,7 +37,7 @@ $ pkg install libwebp
 $ pkg install ffmpeg
 $ pkg install yarn
 $ termux-setup-storage
-$ cd /sdcard/neo
+$ cd /sdcard/neo-master
 $ npm start
 ```
 ---------
